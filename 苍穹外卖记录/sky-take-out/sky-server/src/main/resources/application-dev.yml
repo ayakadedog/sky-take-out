@@ -5,7 +5,7 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: hyf20021004
+    password: 
 
     redis:
       host: localhost
@@ -16,13 +16,9 @@ sky:
 #阿里云
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tDNJ667VeYhvAN9d92y
-    access-key-secret: XA3DaaEx0sfj42qEtpXnZffR25g20U
-    bucket-name: sky-take-out003
-
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
   wechat:
-    appid: wxb258a59e7dba1e68
-    secret: 1ef40350dca57a4f0fd91634ef8a3c40
-
-#reggie:
-#  path: E:\朱全银的作业\改版影院管理系统\src\main\java\com\example\demo\aMysqlWorkFile\
+    appid: 
+    secret: 
